@@ -5,5 +5,6 @@
 
 # Usage
 
-* Download Selenium at https://sites.google.com/a/chromium.org/chromedriver/home* pip install -r requirements.txt
+* Download Selenium at https://sites.google.com/a/chromium.org/chromedriver/home
+* pip install -r requirements.txt
 * Fill in authentication.py with piazza username and password, as well as slack-bot token (starts with x0xb-XXXXX...)
