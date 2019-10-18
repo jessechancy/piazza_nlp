@@ -1,0 +1,3 @@
+USERNAME = ""
+PASSWORD = ""
+SLACK_BOT_TOKEN = ""
